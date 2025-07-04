@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Who Am I?
+## 🥷 Who Am I?
 
 I'm a Full Stack Developer and Data Enthusiast, currently building my foundation across modern web technologies and analytical tools.
 
@@ -17,7 +17,7 @@ Alongside, I enjoy working with **Python, SQL, and Streamlit** to build data das
 
 ---
 
-## 🧠 What Drives Me
+## 🔥 What Drives Me
 
 Seeing the apps I build — whether full stack platforms or analytics dashboards — run smoothly in production without breaking.
 
@@ -25,7 +25,7 @@ There’s something incredibly satisfying about watching everything work seamles
 
 ---
 
-## 🧰 Tech Arsenal
+## ⚔️ Tech Arsenal
 
 ### 🖥️ Frontend  
 <p align="left">
@@ -96,7 +96,7 @@ There’s something incredibly satisfying about watching everything work seamles
 
 ---
 
-## 🏁 Current Focus
+## 🏹 Current Focus
 
 - Exploring **Next.js + TypeScript** for production-level frontend apps
 - Building enterprise-grade REST APIs with **Nest.js** and **Prisma ORM**
