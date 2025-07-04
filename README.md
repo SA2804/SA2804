@@ -16,6 +16,13 @@ Alongside, I enjoy working with **Python, SQL, and Streamlit** to build data das
 
 
 ---
+## ⭐ My Projects by Domain
+
+| Domain            | Project Count |
+|-------------------|---------------|
+| 🔧 Full Stack     |       5      |
+| 📊 Data Science   |       3      |
+| 🎨 Frontend       |       7      |
 
 ## 🔥 What Drives Me
 
@@ -24,13 +31,6 @@ Seeing the apps I build — whether full stack platforms or analytics dashboards
 There’s something incredibly satisfying about watching everything work seamlessly: clean UI, efficient backend, reliable data flow. That keeps me motivated to keep learning, refining, and building better.
 
 ---
-## ⭐ My Projects by Domain
-
-| Domain            | Project Count |
-|-------------------|---------------|
-| 🔧 Full Stack     |       5      |
-| 📊 Data Science   |       3      |
-| 🎨 Frontend       |       7      |
 
 ## ⚔️ Tech Arsenal
 
