@@ -24,6 +24,14 @@ Seeing the apps I build — whether full stack platforms or analytics dashboards
 There’s something incredibly satisfying about watching everything work seamlessly: clean UI, efficient backend, reliable data flow. That keeps me motivated to keep learning, refining, and building better.
 
 ---
+## ⭐ My Projects by Domain
+
+| Domain            | Project Count |
+|-------------------|---------------|
+| 🔧 Full Stack     | ![Full Stack](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Afullstack&type=repositories&label=Projects&style=flat-square&color=blue) |
+| 📊 Data Science   | ![Data Science](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Adatascience&type=repositories&label=Projects&style=flat-square&color=green) |
+| 🎨 Frontend       | ![Frontend](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Afrontend&type=repositories&label=Projects&style=flat-square&color=orange) |
+| 🚀 Backend        | ![Backend](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Abackend&type=repositories&label=Projects&style=flat-square&color=red) |
 
 ## ⚔️ Tech Arsenal
 
