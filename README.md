@@ -24,6 +24,8 @@ Alongside, I enjoy working with **Python, SQL, and Streamlit** to build data das
 | 📊 Data Science   |       3      |
 | 🎨 Frontend       |       7      |
 
+---
+
 ## 🔥 What Drives Me
 
 Seeing the apps I build — whether full stack platforms or analytics dashboards — run smoothly in production without breaking.
@@ -88,6 +90,7 @@ There’s something incredibly satisfying about watching everything work seamles
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
