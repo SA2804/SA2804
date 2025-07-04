@@ -4,7 +4,7 @@
 
 ---
 
-## 🥷 Who Am I?
+## 🥷 Who Am I
 
 I'm a Full Stack Developer and Data Enthusiast, currently building my foundation across modern web technologies and analytical tools.
 
