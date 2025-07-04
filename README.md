@@ -28,10 +28,9 @@ There’s something incredibly satisfying about watching everything work seamles
 
 | Domain            | Project Count |
 |-------------------|---------------|
-| 🔧 Full Stack     | ![Full Stack](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Afullstack&type=repositories&label=Projects&style=flat-square&color=blue) |
-| 📊 Data Science   | ![Data Science](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Adatascience&type=repositories&label=Projects&style=flat-square&color=green) |
-| 🎨 Frontend       | ![Frontend](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Afrontend&type=repositories&label=Projects&style=flat-square&color=orange) |
-| 🚀 Backend        | ![Backend](https://img.shields.io/github/search/SA2804/SA2804?query=topic%3Abackend&type=repositories&label=Projects&style=flat-square&color=red) |
+| 🔧 Full Stack     |       5      |
+| 📊 Data Science   |       3      |
+| 🎨 Frontend       |       7      |
 
 ## ⚔️ Tech Arsenal
 
