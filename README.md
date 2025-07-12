@@ -129,7 +129,7 @@ Open to collaborating on:
 ## 🔗 Reach Out
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamim-ahamed-s-2101a5284/)
-- 🌐 [Portfolio](https://shamim-ahamed-s-portfolio.netlify.app/)
+- 🌐 [Portfolio](https://shamim-ahamed-s-g8zjqhv.gamma.site/)
 - 📫 Email: `shamim.qwerty2804@gmail.com`
 
 ---
